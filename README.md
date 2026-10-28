@@ -13,12 +13,12 @@
 
 # Project Structure
 todo/
-├── app      # Holds todo logic
-├── user   # Holds user and authentication logic
-├── todo   # Holds the project logics and settings
-├── db.sqlite3   #Holds the django included database
-├── manage.py # Django manager for running migrations and others
-└── README.md
+    ├── app          # Holds todo logic
+    ├── user         # Holds user and authentication logic
+    ├── todo         # Holds the project logics and settings
+    ├── db.sqlite3   #Holds the project database tables(models)
+    ├── manage.py    #Django manager for running migrations and others managers commands
+    └── README.md
 
 
 
