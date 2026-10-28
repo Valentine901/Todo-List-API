@@ -12,6 +12,7 @@
     - JWT (Json Web Token)
 
 # Project Structure
+```
 todo/
     ├── app          # Holds todo logic
     ├── user         # Holds user and authentication logic
@@ -19,7 +20,7 @@ todo/
     ├── db.sqlite3   #Holds the project database tables(models)
     ├── manage.py    #Django manager for running migrations and others managers commands
     └── README.md
-
+```
 
 
 ## Gettng Started
